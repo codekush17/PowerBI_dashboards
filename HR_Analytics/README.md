@@ -39,7 +39,7 @@ This HR Analytics Dashboard is designed to analyze employee data and identify ke
 ### 📁 Files Included
 
 * HR_Analytics_Dashboard.pbix
-* screenshot.png
+* ![HR Dashboard](screenshot.png)
 
 ### 🚀 How to Use
 
